@@ -1,0 +1,20 @@
+# Created by pytest automatically.
+
+venv/
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+logs/
+*.log
+
+# Конфиги IDE
+.vscode/
+.idea/
+
+
+docker-compose.override.yml
+*.db
